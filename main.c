@@ -13,5 +13,7 @@ int main()
 		printf("%d\n", i);
 	}
 
+	printf("fine");
+
 	return 0;
 }
